@@ -1,0 +1,7 @@
+C:\Projetos\Furb\ExpressMessage\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Projetos\Furb\ExpressMessage\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Projetos\Furb\ExpressMessage\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Projetos\Furb\ExpressMessage\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ModelLayer\bin\Debug\Components.dll
+C:\Projetos\Furb\ExpressMessage\ModelLayer\bin\Debug\Components.pdb

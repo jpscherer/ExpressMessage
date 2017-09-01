@@ -1,0 +1,4 @@
+C:\Projetos\Furb\ExpressMessage\Components\bin\Debug\Components.dll
+C:\Projetos\Furb\ExpressMessage\Components\bin\Debug\Components.pdb
+C:\Projetos\Furb\ExpressMessage\Components\obj\Debug\Components.dll
+C:\Projetos\Furb\ExpressMessage\Components\obj\Debug\Components.pdb

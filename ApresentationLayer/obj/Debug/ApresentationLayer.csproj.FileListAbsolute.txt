@@ -1,0 +1,18 @@
+c:\users\jean.scherer\documents\visual studio 2015\Projects\ExpressMessage\ApresentationLayer\bin\Debug\ApresentationLayer.exe.config
+F:\SrcCode\Scherer\ExpressMessage\ApresentationLayer\bin\Debug\ApresentationLayer.exe.config
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\ApresentationLayer.exe.config
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\ApresentationLayer.exe
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\ApresentationLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.csprojResolveAssemblyReference.cache
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.Properties.Resources.resources
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.csproj.GenerateResource.Cache
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.exe
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\Components.dll
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\ModelLayer.dll
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\Components.pdb
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\bin\Debug\ModelLayer.pdb
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.FormLogin.resources
+C:\Projetos\Furb\ExpressMessage\ApresentationLayer\obj\Debug\ApresentationLayer.FormMain.resources

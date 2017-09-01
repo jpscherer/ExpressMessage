@@ -1,0 +1,9 @@
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\Components.dll
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\ModelLayer.dll
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\Components.pdb
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\bin\Debug\ModelLayer.pdb
+C:\Projetos\Furb\ExpressMessage\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
